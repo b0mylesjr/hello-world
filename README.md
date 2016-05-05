@@ -1,3 +1,3 @@
 # hello-world
-first repository
-this is the first edit of gethub
+
+This is a new edit of README.md
